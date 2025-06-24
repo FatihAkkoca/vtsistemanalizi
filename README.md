@@ -12,6 +12,8 @@ Silme ve güncelleme işlemleri ad soyad parametresine göre sağlanıyor.
 
 Filtreleme işlemleri semt, durum ve oda parametreleri ile checkbox aracılığıyla sağlanıyor.
 
+Kullanıcı dostu olması, basit bir yapıda olması ve kullanımı kolay olup kafa karıştırmaması için tüm işlemleri tek forma indirgedim.
+
 
 GİRİŞ VE TANITIM
 Teknolojinin hızla geliştiği günümüzde, birçok sektör dijital çözümlerle daha verimli ve düzenli bir yapıya kavuşmuştur. Bu dönüşümden etkilenen alanlardan biri de emlak yönetimi olmuştur. Özellikle apartman, site ve konut projelerinde artan konut sayısı, kira ve satış işlemlerinin çeşitlenmesi, bu süreçlerin geleneksel yöntemlerle yürütülmesini zorlaştırmaktadır. Kağıt üzerinde yapılan kayıtlar ya da dağınık dijital dosyalar, hem zaman kaybına neden olmakta hem de bilgi güvenliğini tehlikeye atmaktadır. Bu noktada devreye giren site içi emlak otomasyonu uygulaması, söz konusu sorunları ortadan kaldırmak ve emlak yönetimini dijitalleştirmek amacıyla geliştirilmiştir. Projemizin temel amacı, emlak bilgilerini düzenli ve merkezi bir sistem üzerinden takip edebilmek, işlemleri hızlandırmak ve kullanıcıların ihtiyaç duyduğu bilgilere kolay erişim sağlamaktır.
