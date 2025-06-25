@@ -1,4 +1,4 @@
-Kullanıcı Adı:Fatih Şifre:1234 (Yanlış giriş yapıldığında uyarı veriyor.)
+Kullanıcı Adı:Fatih Şifre:1234 (Yanlış giriş yapıldığında uyarı veriyor.)(Büyük-küçük harf duyarlıdır.)
 
 Kodlar ile yeni konut ekleme sağlandı raporda fotoğraflandı.
 
